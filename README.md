@@ -1,9 +1,9 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MongoDB, 2023
 
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
-This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MongoDB
 
 ## MAKE SURE YOU HAVE [ADMIN](https://github.com/Korabi123/ecommerce-admin) SETUP FIRST!
 
@@ -25,7 +25,7 @@ Key Features:
 - Order creation
 - Stripe checkout
 - Stripe webhooks
-- MySQL + Prisma + PlanetScale
+- MongoDB + Prisma
 
 ### Prerequisites
 
